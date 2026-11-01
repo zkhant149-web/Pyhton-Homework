@@ -1,0 +1,1 @@
+print('Aung San Suu Kyi once said,"If you\'re feeling helpless,help someone."')
